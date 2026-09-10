@@ -1,7 +1,7 @@
 # CTyper
 
 Minimalist terminal-based typing test written entirely in C. 
-![Demo](screenshot.png) *(image)*
+![Demo](screenshot.png)
 
 ## Installation
 
